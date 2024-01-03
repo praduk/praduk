@@ -18,7 +18,7 @@
  
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![LaTeX](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=latex&logoColor=white)
+![LaTeX](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=tex&logoColor=white)
 ![MD](https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=md&logoColor=white)
 
 ## :zap: My Stats
