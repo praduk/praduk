@@ -2,6 +2,7 @@
 [pradu.us](http://pradu.us/)
  
 ## :computer: My Tech Stack
+![Linux](https://img.shields.io/badge/Linux-A8B9CC?style=for-the-badge&logo=linux&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-5C3EE8?style=for-the-badge&logo=opengl&logoColor=white)
