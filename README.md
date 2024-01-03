@@ -12,7 +12,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 
-![Vim](https://img.shields.io/badge/-VIM-%23007ACC?style=for-the-badge&logo=vim)
+![Vim](https://img.shields.io/badge/-VIM-%7EBF50CC?style=for-the-badge&logo=vim)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
  
