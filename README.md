@@ -4,6 +4,7 @@
 ## :computer: My Tech Stack
 ![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/CPP-283593?style=for-the-badge&logo=cpp&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-283593?style=for-the-badge&logo=glsl&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
