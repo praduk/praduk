@@ -1,4 +1,4 @@
-## :globe_with_meridians: My Portfolio Webste
+## :globe_with_meridians: My Portfolio Website
 [pradu.us](http://pradu.us/)
  
 ## :computer: My Tech Stack
