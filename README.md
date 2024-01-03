@@ -11,14 +11,15 @@
 
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
- 
+
+![Vim](https://img.shields.io/badge/-VIM-%23007ACC?style=for-the-badge&logo=vim)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
  
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![LaTeX](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=latex&logoColor=white)
-![MD](https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=latex&logoColor=white)
+![MD](https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=md&logoColor=white)
 
 ## :zap: My Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gajinkim&theme=dark&hide_border=false)<br/>
