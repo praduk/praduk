@@ -2,8 +2,8 @@
 [pradu.us](http://pradu.us/)
  
 ## :computer: My Tech Stack
-![C](https://img.shields.io/badge/-#A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-#00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-#A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL-283593?style=for-the-badge&logo=glsl&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
