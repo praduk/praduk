@@ -25,6 +25,8 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=latex&logoColor=white)
 ![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=markdown&logoColor=blue)
+
 ## :zap: My Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gajinkim&theme=dark&hide_border=false)<br/>
  
