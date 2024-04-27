@@ -17,6 +17,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+![VS Code](https://img.shields.io/badge/-Flutter-%23007ACC?style=for-the-badge&logo=flutter)
+
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 
 ![Vim](https://img.shields.io/badge/-VIM-%7EBF50CC?style=for-the-badge&logo=vim)
@@ -24,8 +26,6 @@
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=latex&logoColor=white)
 ![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=markdown&logoColor=blue)
 
 ## :zap: My Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gajinkim&theme=dark&hide_border=false)<br/>
