@@ -1,7 +1,7 @@
-## :globe_with_meridians: My Website
+## :globe_with_meridians: Website
 [pradu.us](http://pradu.us/)
  
-## :computer: My Tech Stack
+## :computer: Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -28,7 +28,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-000000?style=for-the-badge&logo=latex&logoColor=white)
 ![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-## :zap: My Stats
+## :zap: Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gajinkim&theme=dark&hide_border=false)<br/>
  
 <!-- List of Badges -->
